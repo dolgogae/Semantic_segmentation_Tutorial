@@ -7,4 +7,4 @@
 python deeplab_demo.py
 ```
 
-You will be able to check my results in the result folder.
+You will be able to check my results under the data folder.
